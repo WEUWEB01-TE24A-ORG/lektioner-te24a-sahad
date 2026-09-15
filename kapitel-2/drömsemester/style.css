@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&display=swap');
+body {
+    background-image: url(./bilder/savir-c-mIce-ORMRho-unsplash.jpg);
+    background-size: 85%;
+
+}
+h1 {
+    color: #4bc1d9;
+    font-family: "Birthstone", cursive;
+    font-size: 90px;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 0 #4c99f7;
+}
+h2 {
+    color: #77cbf5;
+    font-family: "Birthstone", cursive;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 0 #115f59;
+    margin-left: 400px;
+}
+p  {
+    margin-left: 1000px;
+    margin-top: 400px;
+}
+a  {
+    color: #363d7f;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+    text-decoration: none;
+    background-color: #04c1b7;
+    padding: 10px 50px 10px 50px;
+    border-radius: 5px;
+}
