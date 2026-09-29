@@ -1,4 +1,30 @@
 body {
     background-image: url(./bilder/1000_F_50518402_FKef8lXQJPSkVx2x47RoZkmo1Qs1o5xu.jpg);
-    background-size: 85%;
+    background-size: 105%;
+    
+}
+h1{
+font-size: 90px;
+color: rgb(19, 12, 2);
+}
+p {
+    font-size: 40px;
+    
+}
+table{
+    background-color: #e8e7e4;
+}
+caption{
+    font-size: 40px;
+}
+tr{}
+th{}
+td{}
+img{
+    width: 600px;
+}
+
+h2 {
+    font-size: 60px;
+    text-align: center;
 }
